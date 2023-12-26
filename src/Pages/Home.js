@@ -12,7 +12,7 @@ function Home() {
       fetch('http://localhost:4000/movies')
       .then(response => response.json())
       .then(movies =>  setdata(movies))
-  },[data]);
+  },[]);
   
   return (
     <div>
