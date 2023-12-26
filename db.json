@@ -1,0 +1,45 @@
+{
+    "movies" :[
+        {
+            "id" : 1 ,
+            "title" : "STRANGER THINGS.",
+            "image"  : "https://images.pexels.com/photos/2752777/pexels-photo-2752777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "price" : "$20",
+            "description" : "Story that tells the story of a grieving woman who befriends a homeless man"
+
+        },
+        {
+            "id" : 2 ,
+            "title" : "STRANGER THINGS.",
+            "image"  : "https://images.pexels.com/photos/2752777/pexels-photo-2752777.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price" : "$20",
+            "description" : "Story that tells the story of a grieving woman who befriends a homeless man"
+
+        },
+        {
+            "id" : 3 ,
+            "title" : "STRANGER THINGS.",
+            "image"  : "https://images.pexels.com/photos/2752777/pexels-photo-2752777.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price" : "$20",
+            "description" : "Story that tells the story of a grieving woman who befriends a homeless man"
+
+        },
+        {
+            "id" : 4 ,
+            "title" : "STRANGER THINGS.",
+            "image"  : "https://images.pexels.com/photos/2752777/pexels-photo-2752777.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price" : "$20",
+            "description" : "Story that tells the story of a grieving woman who befriends a homeless man"
+
+        },
+        {
+            "id" : 5 ,
+            "title" : "STRANGER THINGS.",
+            "image"  : "https://images.pexels.com/photos/2752777/pexels-photo-2752777.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "price" : "$20",
+            "description" : "Story that tells the story of a grieving woman who befriends a homeless man"
+
+        }
+
+    ]
+}
