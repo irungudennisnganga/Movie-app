@@ -8,8 +8,8 @@ function Navs() {
     <div className='login-link' >
       <NavLink to='/Login'>Login </NavLink> / / /
       <NavLink to='/Home'>Home </NavLink> / / /
-      <NavLink to="/MyCollection">My Collection</NavLink> / / /
-      <NavLink to='/AddMovies'>Add Movie</NavLink>
+      <NavLink to="/MyMovies">My Movies</NavLink> / / /
+      <NavLink to='/AddMovies'>Add Movies</NavLink>
     </div>
   )
 }
